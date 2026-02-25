@@ -1,6 +1,3 @@
-# EME152-Final-Project
+# Fourbar-Slider Mechanism Software
 
-files included:
-CMechanism.chf
-mechanism.h
-test.ch
+Software manual of the dynamics of a linkage simulation.
