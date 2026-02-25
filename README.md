@@ -1,3 +1,3 @@
 # Fourbar-Slider Mechanism Software
 
-Software manual of the dynamics of a linkage simulation.
+Interactive software that demonstrates the dynamics of a fourbar-slider mechanism.
